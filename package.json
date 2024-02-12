@@ -1,6 +1,6 @@
 {
-  "name": "wishlist",
-  "version": "1.0.1",
+  "name": "template-wishlist",
+  "version": "1.0.2",
   "description": "new scope",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
